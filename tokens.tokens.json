@@ -1,0 +1,35 @@
+{
+  "global": {
+    "colors": {
+      "black": {
+        "value": "#050404",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#3200d5",
+        "type": "color",
+        "description": "blue "
+      },
+      "red": {
+        "value": "#e31212",
+        "type": "color"
+      },
+      "gray": {
+        "value": "#8a8484",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    },
+    "regular": {
+      "text": {
+        "value": "40px",
+        "type": "sizing"
+      }
+    }
+  },
+  "Button": {},
+  "$themes": []
+}
