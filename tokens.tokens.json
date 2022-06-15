@@ -1,0 +1,11 @@
+{
+  "global": {
+    "colors": {
+      "yellow": {
+        "value": "#f4f409",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": []
+}
